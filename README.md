@@ -13,10 +13,10 @@ O objetivo desta pasta é registrar a evolução do meu pensamento lógico e a a
 | Pasta | Descrição |
 | :--- | :--- |
 | `Condicionais` | Exercícios sobre Estrutura Condicional. |
-| `Listas` | Exercícios de listas e Vetores. |
-| `Matrizes` | Exercícios de matrizes (lógica pura) e fixação com a biblioteca **NumPy**. |
-| `Dicionarios` | 11 exercícios sobre estruturas chave-valor e um sistema de gerenciamento final. |
-
+| `Listas` | Exercícios de Listas e Vetores. |
+| `Matrizes` | Exercícios de Matrizes (lógica pura) e fixação com a biblioteca **NumPy**. |
+| `Dicionarios` | Exercícios de Dicionários. |
+| `Funcoes` | Exercícios sobre Funções. |
 ---
 *Status: Em desenvolvimento (Python ✅ / Java ⏳)*
 
