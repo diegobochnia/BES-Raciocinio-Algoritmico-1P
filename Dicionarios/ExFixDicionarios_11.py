@@ -1,39 +1,3 @@
-# 11. Desenvolva um programa em Python que simule um pequeno
-# sistema de gerenciamento de usuários utilizando dicionários.
-#  O sistema deve iniciar com um dicionário previamente criado
-# contendo pelo menos 3 usuários, onde a chave representa o nome do
-# usuário e o valor representa sua idade.
-#  Ao iniciar, o programa deve exibir um menu de opções para o
-# usuário, permitindo as seguintes operações:
-# • Exibir todos os usuários cadastrados, mostrando:
-# o apenas os nomes (utilizando keys()),
-# o apenas as idades (utilizando values()),
-# o e todos os pares nome–idade (utilizando items()).
-# • Buscar um usuário pelo nome, utilizando o método get(). Caso o
-# usuário não exista, o programa deve informar uma mensagem
-# apropriada.
-# • Adicionar um novo usuário, solicitando nome e idade. A inserção
-# deve ser feita diretamente no dicionário.
-# • Atualizar a idade de um usuário existente, solicitando o nome e a
-# nova idade.
-# • Remover um usuário específico, utilizando o método pop().
-# • Remover o último elemento inserido no dicionário, utilizando
-# popitem().
-# • Criar uma cópia do dicionário atual, utilizando copy(), e permitir que
-# o usuário altere um dos valores na cópia, exibindo ao final tanto o
-# dicionário original quanto a cópia para comparação.
-# • Inicializar um novo dicionário com múltiplos usuários, utilizando
-# fromkeys(), onde o usuário deve informar uma lista de nomes
-# (separados por vírgula) e todos devem receber uma idade padrão
-# definida pelo usuário.
-# • Atualizar o dicionário principal com novos dados, utilizando
-# update(), a partir de outro dicionário informado pelo usuário.
-# • Limpar todos os dados do sistema, utilizando clear(), mediante
-# confirmação do usuário.
-# • Criar um novo dicionário utilizando a função dict(), a partir de uma
-# lista de tuplas informadas pelo usuário.
-# O programa deve continuar executando até que o usuário escolha a
-# opção de sair.
 
 usuarios = {
     "Ana": 25,

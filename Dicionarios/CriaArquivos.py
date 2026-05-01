@@ -1,7 +1,7 @@
 # criar_arquivos.py
-prefixo = "ExFixDicionarios"
+prefixo = "teste"
 extensao = ".py"
-quantidade = 12
+quantidade = 5
 
 for i in range(1, quantidade + 1):
     nome_arquivo = f"{prefixo}_{i}{extensao}"
